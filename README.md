@@ -26,7 +26,7 @@ Every full-stack developer should have skills for the front-end design, but to h
 Herbert Orellana
 
 - GitHub: [@herokudev](https://github.com/herokudev)
-- LinkedIn: [LinkedIn](https://linkedin.com/in/armando-orellana-a0b50b34)
+- LinkedIn: [LinkedIn](https://www.linkedin.com/in/herbert-armando-orellana-a0b50b34/)
 
 
 ## Show your support
